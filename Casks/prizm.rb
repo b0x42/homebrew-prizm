@@ -1,6 +1,6 @@
 cask "prizm" do
-  version "1.4.0"
-  sha256 "fa12b2a7f0eaccf89c733e095aa2266d0a6ea95778b2d549751c8448a94dbefc"
+  version "1.4.1"
+  sha256 "b0e1dc1830e8087e7732e8af5016cff1ae2263b2f5a77bc1badf84f82de8f311"
 
   url "https://github.com/b0x42/prizm/releases/download/v#{version}/Prizm-v#{version}.dmg"
   name "Prizm"
