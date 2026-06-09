@@ -7,7 +7,7 @@ cask "prizm" do
   desc "Native macOS client for Vaultwarden and self-hosted Bitwarden"
   homepage "https://github.com/b0x42/prizm"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Prizm.app"
 end
